@@ -20,19 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6a9e86c-e908-42a9-9537-f08e1e8c2a52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/media/image/logo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/datos.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitiignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/buclePrincipal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/dimensiones.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/inicio.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/mando.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/rectangulo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/teclado.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600977627582</updated>
       <workItem from="1600977629731" duration="501000" />
-      <workItem from="1601040364405" duration="3701000" />
+      <workItem from="1601040364405" duration="3876000" />
     </task>
     <servers />
   </component>
