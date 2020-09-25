@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6a9e86c-e908-42a9-9537-f08e1e8c2a52" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="a6a9e86c-e908-42a9-9537-f08e1e8c2a52" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600977627582</updated>
       <workItem from="1600977629731" duration="501000" />
-      <workItem from="1601040364405" duration="3876000" />
+      <workItem from="1601040364405" duration="4141000" />
     </task>
     <servers />
   </component>
@@ -81,5 +79,9 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="437" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.797@0.23.1440.797" timestamp="1601058952298" />
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1601064106576">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1601064106576" />
   </component>
 </project>
