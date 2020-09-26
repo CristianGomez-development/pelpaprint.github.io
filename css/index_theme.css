@@ -4,6 +4,8 @@
         height: 300px;
         margin-right: auto;
         margin-left: auto;
+        margin-top: auto;
+        margin-bottom: auto;
         display: block;
     }
 }
@@ -14,13 +16,16 @@
         height: 600px;
         margin-right: auto;
         margin-left: auto;
+        margin-top: auto;
+        margin-bottom: auto;
         display: block;
     }
 }
 
-div {
+.imagen_logo {
     background-color: black;
     width: 100%;
+    height: 100%;
 }
 
 h1 {
