@@ -1,21 +1,32 @@
-@media only screen and (min-width: 300px) {
+/* desktoo */
+@media only screen and (min-width: 1000px) {
     img {
-        width: 500px;
-        height: 460px;
+        width: 1000px;
+        height: 700px;
         margin-right: auto;
         margin-left: auto;
-        vertical-align:middle;
         display: block;
     }
 }
 
-@media only screen and (min-width: 600px) {
+/* tablet */
+@media only screen and (max-width: 1000px) {
     img {
-        width: 900px;
-        height: 1400px;
+        width: 600px;
+        height: 300px;
         margin-right: auto;
         margin-left: auto;
-        vertical-align:middle;
+        display: block;
+    }
+}
+
+/* mobile */
+@media only screen and (max-width: 600px) {
+    img {
+        width: 500px;
+        height: 1320px;
+        margin-right: auto;
+        margin-left: auto;
         display: block;
     }
 }
@@ -29,4 +40,13 @@ h1 {
     text-align: center;
     background-color: white;
 }
+
+/*img {
+    width: 1200px;
+    height: 900px;
+    margin-right: auto;
+    margin-left: auto;
+    vertical-align:middle;
+    display: block;
+}*/
 
