@@ -3,8 +3,13 @@
     ingresa datos
 </title>
 <body>
-<h1>Muchas felicidades, ya solo te falta una maestra y un examen,  </h1>
-<h1>ya lo lograste, que chingon XD,</h1>
-<h1>y me siento muy feliz por ti ANIMO. ATT:yo </h1>
+<form action="endbuy.html" method="get" enctype="multipart/form-data">
+    <p>Nombre: <input type="text" name="nombre" size="40"></p>
+    <p>Direccion: <input type="text" name="direccion" size="40"></p>
+    <p>Celular: <input type="number" name="celular" size="10"></p>
+    <p>Selecciona el Archivo que deseas imprimir: </p>
+    <input name="userfile" type="file">
+    <input type="submit" value="Enviar">
+</form>
 </body>
 </html>
