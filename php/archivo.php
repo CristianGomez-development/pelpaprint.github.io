@@ -1,4 +1,5 @@
 <?php
+print_r($_FILES);
 $nombre = $_FILES['userfile']['name'];
 $guardado = $_FILES['userfile']['tmp_name'];
 
